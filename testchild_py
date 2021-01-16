@@ -1,3 +1,4 @@
 ## adding a new file in child branch
 print("Inside child branch")
 print("edits in terminal")
+print("adding text from gitbash")
